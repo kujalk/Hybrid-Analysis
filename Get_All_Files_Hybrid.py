@@ -106,7 +106,7 @@ for i in range(39):
                                         
                                         print("calling API")
 
-                                        headers={'Content-type': 'application/x-www-form-urlencoded', 'Accept': 'text/plain', 'user-agent': 'Falcon Sandbox', 'accept': 'application/json','api-key': '4w0c8g0c4k80c4csck0cwk4w4csgosskkgsco0woc80cc8k0cwc4oc4kgkck8c0s'}
+                                        headers={'Content-type': 'application/x-www-form-urlencoded', 'Accept': 'text/plain', 'user-agent': 'Falcon Sandbox', 'accept': 'application/json','api-key': 'xxxx'}
 
                                         pass_url="https://www.hybrid-analysis.com/api/v2/search/hash?_timestamp=1568892254741"   
                                         
